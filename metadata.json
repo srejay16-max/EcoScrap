@@ -1,0 +1,10 @@
+{
+  "name": "EcoScrap",
+  "description": "From Scraps to Soil — AI-powered campus composting, contamination detection, verified deposits, and sustainability rewards for USF.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
